@@ -26,19 +26,9 @@
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-
 <br><br>
 
 
-<p align="center">
-<img width="800px" height="600px" src="pexels-city-at-night.jpeg">
-</p>
 
-
-<br><br>
-
-<p align="center">
-<img width="800px" height="500" src="laptop-notebook-working-outside.jpg">
-</p>
 
 
