@@ -1,11 +1,13 @@
 
 
+
+
 <h1 align="center"> Twitter From Zero :bulb:</h1>
 
-<h2>This repo is an overview of software that our volunteer team hopes to build over the next 2-20 years. Most of these apps are only in the idea stage for now, but some prototypes are up on Codepen. Each app starts to solve critical problems: water shortages, deforestation, poverty, unemployment, and food waste. In 2016-2030, we can create decentralized change without corporate interference...</h2> 
+<h2>How to make a twitter clone with the Phoenix Framework.</h2> 
 
-<h2>Here's the 
-<a href="https://www.reddit.com/r/Futurology/comments/55w405/brainstorming_industries_of_the_future_jobs_for/">timeline we're building</a>
+<h2>Here's how to download the  
+<a href="https://www.phoenixframework.org/">Phoenix Framework</a>
 
 <p align="center">
 <img src="http://i.imgur.com/42bYJfQ.jpg">
@@ -26,7 +28,11 @@
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<br><br>
+
+
+
+
+
 
 
 
