@@ -14,17 +14,7 @@
 </p>
 
 <br><br>
-
-
 </p>
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="center">
-<img src="http://i.imgur.com/v6w17QK.jpg">
-</p>
-
-
 <br>
 
 # Chirp
@@ -45,3 +35,8 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+<br><br><br><br>
+<p align="center">
+<img src="http://i.imgur.com/v6w17QK.jpg">
+</p>
